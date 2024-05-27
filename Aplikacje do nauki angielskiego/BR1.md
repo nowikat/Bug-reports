@@ -16,7 +16,7 @@ Słowa we wszystkich zdaniach do ułożenia są już poprawnie ustawione.
 4. Przeprowadź rozmowę z AI Tutorem				
 
 **Zrzuty ekranu**
-Brak
+![BR1](https://github.com/nowikat/Bug-reports/blob/main/Aplikacje%20do%20nauki%20angielskiego/Za%C5%82%C4%85czniki/BR1.jpg)
 
 **Środowisko**
 - Model telefonu: Xiaomi Redmi Note 8 pro
