@@ -10,7 +10,7 @@ Aplikacja powinna dokładnie rozpoznawać wymawiane słowa i frazy, niezależnie
 **Rzeczywiste zachowanie**  
 Aplikacja źle rozpoznaje wymawiane słowa.
 
-**Warunki wstępne**
+**Warunki wstępne**  
 Strona główna aplikacji jest otwarta.
 
 **Kroki do odtworzenia**  
@@ -20,9 +20,9 @@ Strona główna aplikacji jest otwarta.
 4.Wyraźnie powtórz podane zdanie do mikrofonu.
 
 **Zrzuty ekranu**  
-![BR2]  
-**Środowisko**
+![BR2](https://github.com/nowikat/Bug-reports/blob/main/Aplikacje%20do%20nauki%20angielskiego/Za%C5%82%C4%85czniki/BR2.jpg)  
+**Środowisko**  
 
-- Model telefonu: Xiaomi Redmi Note 8 pro
+- Model telefonu: Xiaomi Redmi Note 8 pro  
 - System operacyjny: Android 10
 - Wersja aplikacji: 1.0.95 - bezpłatna
