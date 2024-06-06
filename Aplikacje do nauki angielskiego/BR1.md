@@ -1,4 +1,7 @@
-# Bug Report nr 1 - Aplikacja Bee Speaker
+# Bug Report nr 1 - Aplikacja Bee Speaker  
+
+**Ważność**: 🟡 Średnia   
+**Priorytet**: 🟢 Niski
 
 ## Opis błędu
 Słowa w grze 'Unscramble the sentences' nie są losowo ustawione				
