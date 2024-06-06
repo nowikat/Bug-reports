@@ -1,4 +1,8 @@
-# Bug Report nr 2 - Aplikacja Sivi
+# Bug Report nr 2 - Aplikacja Sivi  
+**Ważność**: 🟡 Średnia  
+**Priorytet**: ⚠️ Średni  
+
+
 
 ## Opis błędu
 
