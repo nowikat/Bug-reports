@@ -33,4 +33,4 @@ Implement an eye icon to show the password in the password field during the care
 - **Device**: Xiaomi Redmi Note 8 Pro
 - **Operating System**: Android 11
 
-![SCREENSHOT](Pletly/Attachments/BR2.jpg)
+![SCREENSHOT](Attachments/BR2.jpg)
