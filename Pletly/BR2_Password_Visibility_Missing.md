@@ -29,7 +29,7 @@ Users may enter incorrect passwords without realizing it, leading to potential i
 Implement an eye icon to show the password in the password field during the caregiver creation process.
 
 ## Environment
-- **Application Version**: Pletly Pal (staging) 1.0.22
+- **Application Version**: Pletly Care (staging) 1.0.22
 - **Device**: Xiaomi Redmi Note 8 Pro
 - **Operating System**: Android 11
 
